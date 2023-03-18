@@ -5,8 +5,6 @@ source ./utils.sh
 # Call the get_disk_space_before function to get the available disk space before executing the file
 get_disk_space_before
 
-
-
 #Removes old revisions of snaps
 #CLOSE ALL SNAPS BEFORE RUNNING THIS
 set -eu

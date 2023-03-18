@@ -9,6 +9,5 @@ npm cache clean --force >/dev/null 2>&1
 npm cache rm --force >/dev/null 2>&1
 npm cache verify >/dev/null 2>&1
 
-
 # Call the get_disk_space_after function to get the available disk space after executing the file
 get_disk_space_after "cache"
