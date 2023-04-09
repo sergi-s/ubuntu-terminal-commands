@@ -6,7 +6,7 @@ chmod +x s.sh
 Run the file
 
 ```bash
-./s.sh <access-token>
+./s.sh -t <access-token> -n <repo-name> -u <user-name>  
 
 ```
 How to get access token 
